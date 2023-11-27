@@ -1,0 +1,61 @@
+Price                                1.000000
+Rooms                                0.499498
+Bathroom                             0.469739
+Type_h                               0.403702
+Region_Southern Metropolitan         0.341913
+BuildingArea                         0.316379
+Council_Boroondara                   0.276730
+AgeAtSale                            0.262928
+Landsize                             0.210333
+Longtitude                           0.207564
+Council_Bayside                      0.183207
+Car                                  0.162531
+Council_Stonnington                  0.075133
+Council_MissingCouncil               0.054011
+Council_Whitehorse                   0.041101
+Council_Manningham                   0.037965
+Season_Fall                          0.037484
+Season_Winter                        0.031775
+Council_Yarra                        0.024211
+Council_Port Phillip                 0.022998
+Council_Monash                       0.019146
+Region_Eastern Metropolitan          0.017396
+Season_Spring                        0.013355
+Council_Unavailable                  0.003600
+YearSold                             0.000995
+Council_Glen Eira                    0.000552
+Council_Moorabool                   -0.011159
+Council_Macedon Ranges              -0.016307
+Council_Nillumbik                   -0.019482
+Council_Cardinia                    -0.020003
+Council_Kingston                    -0.020091
+Council_Yarra Ranges                -0.020809
+Council_Hobsons Bay                 -0.021145
+Council_Knox                        -0.022152
+Council_Maroondah                   -0.028670
+Council_Casey                       -0.036349
+Council_Moonee Valley               -0.038265
+Council_Greater Dandenong           -0.038375
+Region_Eastern Victoria             -0.039210
+Council_Melbourne                   -0.042365
+Council_Frankston                   -0.042676
+Council_Banyule                     -0.044239
+Region_Northern Victoria            -0.044413
+Region_South-Eastern Metropolitan   -0.051263
+Region_Western Victoria             -0.054157
+Season_Summer                       -0.063012
+Council_Melton                      -0.066076
+Type_t                              -0.066230
+Council_Darebin                     -0.068416
+Council_Wyndham                     -0.072008
+Council_Whittlesea                  -0.081307
+Council_Maribyrnong                 -0.091547
+Council_Hume                        -0.093246
+Council_Moreland                    -0.122128
+Council_Brimbank                    -0.124022
+Distance                            -0.170650
+Region_Western Metropolitan         -0.173100
+Region_Northern Metropolitan        -0.176965
+Lattitude                           -0.218583
+Type_u                              -0.403861
+dtype: float64
