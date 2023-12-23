@@ -1,4 +1,5 @@
 # Final Project for Machine Learning CS07455 at Rowan University
+Final Project for the Undergrad Machine Learning course with professor Veysel Yesilbas.
 
 Notebooks are numbered to denote order of progression in project. 
 
